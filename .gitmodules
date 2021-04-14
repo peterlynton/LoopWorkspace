@@ -37,3 +37,7 @@
 [submodule "LoopOnboarding"]
 	path = LoopOnboarding
 	url = https://github.com/LoopKit/LoopOnboarding.git
+[submodule "xdrip-client"]
+	path = xdrip-client
+	url = https://github.com/julian-groen/xdrip-client-swift.git
+
